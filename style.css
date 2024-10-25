@@ -7,3 +7,4 @@ body { text-align: center;
     font-family: Tahoma;
     font-size: 16px;
    }
+.rl-remove-bullets { list-style-type: none;}   
