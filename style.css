@@ -7,4 +7,8 @@ body { text-align: center;
     font-family: Tahoma;
     font-size: 16px;
    }
-.rl-remove-bullets { list-style-type: none;}   
+.rl-remove-bullets { list-style-type: none;} 
+
+.bpol-numbers { list-style-position: inside;
+
+}
